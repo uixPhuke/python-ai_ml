@@ -1,6 +1,6 @@
 students = [
     ("Arka", "Mathematics"),
-    ("Riya", "Computer Science"),
+    ("Martin", "Computer Science"),
     ("Sayan", "Maths"),
     ("Arka", "Biology"),
     ("Riya", "Computer Science"),
@@ -41,4 +41,8 @@ for tup in students:
 
 print(studentsCourse_set)
 
+#name of students study cs
+for name,course in students:
+    if(course=='Computer Science'):
+        print(name)
 
