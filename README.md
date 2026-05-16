@@ -48,17 +48,8 @@ From Python fundamentals to Machine Learning, Deep Learning, LLMs, Generative AI
 
 ---
 
-# 👨‍💻 About Me
 
-I'm a Full Stack Developer specializing in the MERN stack, with a strong interest in building scalable and interactive web applications.
 
-Currently, I'm learning Artificial Intelligence and Machine Learning, exploring areas like:
-- Deep Learning
-- Generative AI
-- LLMs
-- AI Agents
-- RAG Systems
-- AI-powered applications
 
 ---
 
