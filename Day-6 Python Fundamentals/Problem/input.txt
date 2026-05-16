@@ -1,0 +1,4 @@
+This is a sample file
+to find a word
+which is Python
+this line has no meaning
