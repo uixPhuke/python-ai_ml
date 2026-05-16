@@ -32,6 +32,7 @@ I'm a Full Stack Developer specializing in the MERN stack, with a strong interes
 Currently, I'm expanding my skills in Artificial Intelligence and Machine Learning, exploring areas such as Deep Learning, Generative AI, LLMs, and AI-powered application development to combine modern web technologies with intelligent systems.
 
 ## 🔗 Links
+
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://phuke.vercel.app)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-in/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rohanphuke)
@@ -200,21 +201,7 @@ I --> J[Real World Projects]
 
 ---
 
-# 🔗 Connect With Me
 
-<div align="center">
-
-<a href="https://phuke.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/>
-</a>
-
-<a href="https://github.com/uixPhuke">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
 
 # ⭐ Support
 
