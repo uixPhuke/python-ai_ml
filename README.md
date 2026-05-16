@@ -46,7 +46,6 @@ This repository is a structured roadmap designed to help developers and students
 
 From Python fundamentals to Machine Learning, Deep Learning, LLMs, Generative AI, deployment, and production-ready AI systems — everything is organized in a practical learning flow.
 
----
 
 
 
