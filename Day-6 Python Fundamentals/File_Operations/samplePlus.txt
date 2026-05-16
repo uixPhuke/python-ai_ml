@@ -1,0 +1,2 @@
+News is old file
+created by meThis is a sample text file for 'a+' mode. 

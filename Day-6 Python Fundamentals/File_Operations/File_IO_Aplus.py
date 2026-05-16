@@ -1,0 +1,3 @@
+f=open("samplePlus.txt","a+") #'a+' mode is used to read and append data to a file. If the file does not exist, it will be created. If the file already exists, the new data will be added to the end of the file.
+f.write("This is a sample text file for 'a+' mode. ")    #write() method is used to write data to the file
+f.close() #close() method is used to close the file after reading and writing data to it. It is important to close the file to free up system resources and ensure that all data is properly saved to the file.
