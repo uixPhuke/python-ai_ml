@@ -24,7 +24,7 @@ class BankAccount:
         print(f"Current Balance: ₹{self.balance}")
 
 # Create an object of BankAccount
-account1 = BankAccount(101, "Raj", 5000)
+account1 = BankAccount(101, "Raj", 500)
 
 account1.deposit(2000)
 account1.withdraw(1500)
