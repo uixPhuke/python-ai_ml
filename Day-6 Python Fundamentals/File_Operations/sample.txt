@@ -1,0 +1,3 @@
+This is me Phuke
+Sample file for
+File I/O operations
